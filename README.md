@@ -1,3 +1,5 @@
-### eb's profile
+# eb's profile
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elbrmv)](https://github.com/elbrmv/github-readme-stats)
+<img alt="streak stats" align="left" width="470" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=elbrmv&count_private=true&theme=dracula&border_radius=5"/>
+<img alt="top langs" align="left" width="490" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbrmv&theme=dracula&layout=compact&border_radius=5"/>
+<img alt="my stats" align="center" width="470" src="https://github-readme-stats.vercel.app/api?username=elbrmv&show_icons=true&theme=dracula&hide=issues,contribs&border_radius=5"/>
